@@ -14,3 +14,7 @@ public class EvenElements
 	}
 
 }
+/*
+	Output:
+	0001011010001
+*/
